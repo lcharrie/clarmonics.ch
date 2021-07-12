@@ -4,4 +4,4 @@
 
 This website contains information about the activities of the clarinet ensemble "Clarmonics" from Biel, Switzerland. It offers information, images and videos related to this ensemble.
 
-It is built with the Laravel and Foundation 6 frameworks.
+It is built using the [Laravel](https://laravel.com/) and [Foundation 6](https://get.foundation/) frameworks.
