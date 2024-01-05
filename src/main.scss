@@ -1,0 +1,15 @@
+// FONTS
+
+// CSS NORMALIZE
+@import '../node_modules/normalize.css/normalize.css';
+
+// MIXINS
+@import 'mixins';
+
+// FONDATION SITES
+@import 'settings';
+@import '../node_modules/foundation-sites/assets/foundation';
+@include foundation-prototype-text-transformation;
+
+// STYLESHEETS
+@import 'common';

@@ -1,0 +1,32 @@
+{
+    "locale": {
+        "de": "allemand",
+        "fr": "français"
+    },
+    "common": {
+        "director": "direction"
+    },
+    "home": {
+        "nav": "accueil"
+    },
+    "about": {
+        "nav": "à propos",
+        "title": "à propos",
+        "the-ensemble": "Clarmonics – un ensemble de clarinettes qui apporte de la musique à vivre, où la fascination de toute la famille des clarinettes s’unit à des œuvres originales, intéressantes et divertissantes. Son répertoire comprend des morceaux de 4 à 8 voix de tous les styles, parfois des transcriptions, mais surtout des compositions écrites pour cet effectif, qui peut aller jusqu’à un “orchestre” complet.\n\nLe groupe répète en fonction des projets pour donner des concerts de toute sorte, en profitant également de la cohésion propre à un ensemble de musique de chambre. Les conditions de participation aux Clarmonics sont les cours individuels de clarinette auprès de Lukas Vogelsang à l’Ecole de Musique de Bienne et la participation régulière aux répétitions et concerts."
+    },
+    "media": {
+        "nav": "médias",
+        "title": "médias"
+    },
+    "projects": {
+        "nav": "projets",
+        "title": "projets"
+    },
+    "contacts": {
+        "nav": "contacts",
+        "title": "contacts"
+    },
+    "not-found": {
+        "title": "page non trouvée"
+    }
+}

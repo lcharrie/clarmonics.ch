@@ -1,0 +1,29 @@
+{
+    "locale": {
+        "de": "deutsch",
+        "fr": "französisch"
+    },
+    "home": {
+        "nav": "startseite"
+    },
+    "about": {
+        "nav": "über uns",
+        "title": "über uns",
+        "the-ensemble": "Clarmonics – ein Klarinettenensemble, das Musik zum Erleben bringt.\nDie Faszination der gesamten Klarinettenfamilie vereint sich mit originalen, originellen und unterhaltenden Werken. Vier- bis achtstimmige Werke aus verschiedenen Stilen, zum Teil Transkriptionen, vor allem aber originale Kompositionen, bis hin zu Klarinettenchorwerken sind im Repertoire von Clarmonics.\n\nDie Gruppe probt projektbezogen auf Konzerte verschiedenster Art und geniesst den Zusammenhalt einer Kammermusikgruppe. Voraussetzung für das Mitwirken bei Clarmonics ist der Besuch des Klarinettenunterrichts an der Musikschule Biel bei Lukas Vogelsang und die regelmässige Teilnahme an Proben und Konzerten."
+    },
+    "media": {
+        "nav": "medien",
+        "title": "medien"
+    },
+    "projects": {
+        "nav": "projekte",
+        "title": "projekte"
+    },
+    "contacts": {
+        "nav": "kontakte",
+        "title": "kontakte"
+    },
+    "not-found": {
+        "title": "seite nicht gefunden"
+    }
+}
